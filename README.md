@@ -1,5 +1,5 @@
-# 💫 About Me:
-Pre Final CSE Student at NIT Jalandhar
+
+# Pre Final CSE Student at NIT Jalandhar
 
 
 # 💻 Tech Stack:
