@@ -1,5 +1,5 @@
 
- # Pre Final CSE Student at NIT Jalandhar
+ # Pre Final CSE Undergrad at NIT Jalandhar
 
 
 # Tech Stack:
