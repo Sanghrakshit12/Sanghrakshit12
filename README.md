@@ -4,8 +4,15 @@
 ## Hey, I'm Sanghrakshit!
 Final year CS Undergrad at NIT Jalandhar
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/deepanshuurawat?label=Follow)](https://x.com/Sanghrakshit12)
-[![Linkedin: anmol](https://img.shields.io/badge/-Sanghrakshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Sanghrakshit)](https://linkedin.com/in/Sanghrakshit)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanghrakshit/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamsanghrakshit@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Sanghrakshit12)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sanghrakshit/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/buUhqUqx)
+
+
+
+
 
 
 <div align="center">
