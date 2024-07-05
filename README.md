@@ -4,6 +4,8 @@
 ## Hey, I'm Sanghrakshit!
 Final year CS Undergrad at NIT Jalandhar
 
+[![Portfolio](https://img.shields.io/badge/portfolio-website-green?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://sanghrakshitgautam.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanghrakshit/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamsanghrakshit@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Sanghrakshit12)
